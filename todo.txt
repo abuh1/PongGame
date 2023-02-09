@@ -1,0 +1,6 @@
+both inputs same time
+ball speeds up as game progresses
+start ball in random direction
+change way ball moves (up or down) when you move paddle just as it hits
+scoring
+sound
